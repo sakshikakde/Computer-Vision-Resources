@@ -3,4 +3,5 @@
 2) Errosion: https://www.youtube.com/watch?v=rP1KZb3llCY
 3) Gearbox example: https://www.youtube.com/watch?v=fKwEa5yk7Ns
 # Connected Components
-1) https://www.youtube.com/watch?v=hMIrQdX4BkE
+1) Row by row method: https://www.youtube.com/watch?v=hMIrQdX4BkE
+2) Recursive Connected Components: https://courses.cs.washington.edu/courses/cse373/00au/chcon.pdf
