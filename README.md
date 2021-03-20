@@ -5,3 +5,11 @@
 # Connected Components
 1) Row by row method: https://www.youtube.com/watch?v=hMIrQdX4BkE
 2) Recursive Connected Components: https://courses.cs.washington.edu/courses/cse373/00au/chcon.pdf
+
+# Clustering
+## K means
+1) https://www.youtube.com/watch?v=hDmNF9JG3lo
+## Gaussian Mixture Model
+1) Basic idea : https://www.youtube.com/watch?v=DODphRRL79c
+2) Intuition : https://www.youtube.com/watch?v=JNlEIEwe-Cg
+3) Math for EM: https://stephens999.github.io/fiveMinuteStats/intro_to_mixture_models.html , https://stephens999.github.io/fiveMinuteStats/intro_to_em.html
