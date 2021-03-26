@@ -13,3 +13,9 @@
 1) Basic idea : https://www.youtube.com/watch?v=DODphRRL79c
 2) Intuition : https://www.youtube.com/watch?v=JNlEIEwe-Cg
 3) Math for EM: https://stephens999.github.io/fiveMinuteStats/intro_to_mixture_models.html , https://stephens999.github.io/fiveMinuteStats/intro_to_em.html
+
+# basocs of Epipolar geometry
+1) https://www.youtube.com/watch?v=cLeF-KNHgwU
+
+# What is fundamental matrix and how to calculate it
+1) https://www.youtube.com/watch?v=Opy8xMGCDrE
