@@ -24,6 +24,7 @@
 1) https://www.youtube.com/watch?v=Opy8xMGCDrE
 
 # Triangulation 
+1) http://www.cs.cmu.edu/~16385/s19/lectures/lecture10.pdf
 
 # Stereo 
 
