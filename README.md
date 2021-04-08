@@ -14,8 +14,17 @@
 2) Intuition : https://www.youtube.com/watch?v=JNlEIEwe-Cg
 3) Math for EM: https://stephens999.github.io/fiveMinuteStats/intro_to_mixture_models.html , https://stephens999.github.io/fiveMinuteStats/intro_to_em.html
 
-# Basics of Epipolar geometry
+# Epipolar geometry
+## Basic Idea
 1) https://www.youtube.com/watch?v=cLeF-KNHgwU
+## Epipolar constraints
+1) http://www.cs.cmu.edu/~16385/s19/lectures/lecture10.pdf    
 
 # What is fundamental matrix and how to calculate it
 1) https://www.youtube.com/watch?v=Opy8xMGCDrE
+
+# Triangulation 
+
+# Stereo 
+
+# Structure of motion
