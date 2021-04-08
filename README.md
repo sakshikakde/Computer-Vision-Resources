@@ -25,6 +25,7 @@
 
 # Triangulation 
 1) http://www.cs.cmu.edu/~16385/s19/lectures/lecture10.pdf
+2) For non-interecting rays in 3D: https://www.youtube.com/watch?v=UZlRhEUWSas
 
 # Stereo 
 
