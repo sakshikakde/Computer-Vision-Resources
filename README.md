@@ -31,3 +31,6 @@
 # Image rectification
 
 # Structure of motion
+
+# Perspective-n- points
+1) https://www.youtube.com/watch?v=RR8WXL-kMzA
