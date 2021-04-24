@@ -29,6 +29,7 @@
 2) For non-interecting rays in 3D: https://www.youtube.com/watch?v=UZlRhEUWSas
 
 # Stereo 
+1) http://www.cs.cmu.edu/~16385/lectures/lecture13.pdf  
 # Image rectification
 
 # Structure of motion
