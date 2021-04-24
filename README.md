@@ -30,6 +30,7 @@
 
 # Stereo 
 1) http://www.cs.cmu.edu/~16385/lectures/lecture13.pdf  
+2) http://mccormickml.com/2014/01/10/stereo-vision-tutorial-part-i/
 # Image rectification
 
 # Structure of motion
