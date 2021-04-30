@@ -39,4 +39,7 @@
 # Perspective-n- points
 1) https://www.youtube.com/watch?v=RR8WXL-kMzA
 
+# Motion Fields
+https://www.cc.gatech.edu/~afb/classes/CS4495-Fall2013/slides/CS4495-15-MotionModels.pdf
+
 
