@@ -40,4 +40,8 @@ https://guides.github.com/introduction/flow/
 # Perspective-n- points
 1) https://www.youtube.com/watch?v=RR8WXL-kMzA
 
+# Bi-linear interpolation
+1) https://en.wikipedia.org/wiki/Bilinear_interpolation
+2) https://gist.github.com/sakshikakde/2ab0664a5edfbad3986dc49812132b8a
+
 
