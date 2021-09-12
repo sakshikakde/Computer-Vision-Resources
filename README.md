@@ -15,6 +15,7 @@ https://guides.github.com/introduction/flow/
 1) Basic idea : https://www.youtube.com/watch?v=DODphRRL79c
 2) Intuition : https://www.youtube.com/watch?v=JNlEIEwe-Cg
 3) Math for EM: https://stephens999.github.io/fiveMinuteStats/intro_to_mixture_models.html , https://stephens999.github.io/fiveMinuteStats/intro_to_em.html
+4) Bayes theorem: https://www.youtube.com/watch?v=9wCnvr7Xw4E
 
 # Epipolar geometry
 ## Basic Idea
