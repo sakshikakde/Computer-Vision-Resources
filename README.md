@@ -11,6 +11,8 @@ https://guides.github.com/introduction/flow/
 # Corner Detection
 ## Harris
 1) http://www.cse.psu.edu/~rtc12/CSE486/lecture06.pdf
+## SIFT
+1) https://www.youtube.com/watch?v=NPcMS49V5hg
 # Clustering
 ## K means
 1) https://www.youtube.com/watch?v=hDmNF9JG3lo
