@@ -8,6 +8,9 @@ https://guides.github.com/introduction/flow/
 1) Row by row method: https://www.youtube.com/watch?v=hMIrQdX4BkE
 2) Recursive Connected Components: https://courses.cs.washington.edu/courses/cse373/00au/chcon.pdf
 
+# Corner Detection
+## Harris
+1) http://www.cse.psu.edu/~rtc12/CSE486/lecture06.pdf
 # Clustering
 ## K means
 1) https://www.youtube.com/watch?v=hDmNF9JG3lo
