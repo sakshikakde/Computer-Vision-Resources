@@ -23,6 +23,8 @@ https://guides.github.com/introduction/flow/
 4) Bayes theorem: https://www.youtube.com/watch?v=9wCnvr7Xw4E
 5) Expectation: https://www.youtube.com/watch?v=KLs_7b7SKi4
 
+# Zhang's Camera Calibration
+1) https://www.ipb.uni-bonn.de/html/teaching/msr2-2020/sse2-14-calibration-zhang.pdf
 # Epipolar geometry
 ## Basic Idea
 1) https://www.youtube.com/watch?v=cLeF-KNHgwU
