@@ -32,6 +32,7 @@ https://guides.github.com/introduction/flow/
 # What is fundamental matrix and how to calculate it
 1) https://www.youtube.com/watch?v=Opy8xMGCDrE
 2) https://www.cc.gatech.edu/classes/AY2016/cs4476_fall/results/proj3/html/sdai30/index.html
+3) 8 point algo: http://www.cs.cmu.edu/~16385/s17/Slides/12.4_8Point_Algorithm.pdf
 
 # Triangulation 
 1) http://www.cs.cmu.edu/~16385/s19/lectures/lecture10.pdf
