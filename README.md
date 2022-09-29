@@ -54,6 +54,9 @@ https://guides.github.com/introduction/flow/
 1) https://en.wikipedia.org/wiki/Bilinear_interpolation
 2) https://gist.github.com/sakshikakde/2ab0664a5edfbad3986dc49812132b8a
 
+# Iterative Closest Point method
+1) https://www.youtube.com/watch?v=QWDM4cFdKrE (overview)
+
 
 # Barycentric coordinates
 1) https://www.youtube.com/watch?v=dA7GzG4BIzI&list=PLtOnbOq_QGQghqF9N5ntauCdSG5IhCR6v&index=2
